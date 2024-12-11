@@ -4,24 +4,24 @@ const body = document.body;
 
 const soundData = {
   ocean: {
-    audio: "sounds/ocean.mp3",
-    background: 'url("images/ocean.jpg")',
+    audio: "ocean.mp3",
+    background: 'url("ocean.jpg")',
   },
   rain: {
-    audio: "sounds/rain.mp3",
-    background: 'url("images/rain.jpg")',
+    audio: "rain.mp3",
+    background: 'url("rain.jpg")',
   },
   forest: {
-    audio: "sounds/forest.mp3",
-    background: 'url("images/forest.jpg")',
+    audio: "forest.mp3",
+    background: 'url("forest.jpg")',
   },
   fire: {
-    audio: "sounds/fire.mp3",
-    background: 'url("images/fire.jpg")',
+    audio: "fire.mp3",
+    background: 'url("fire.jpg")',
   },
   thunder_storm: {
-    audio: "sounds/thunderstorm.mp3",
-    background: 'url("images/thunder_storm.jpg")',
+    audio: "thunderstorm.mp3",
+    background: 'url("thunder_storm.jpg")',
   },
 };
 
